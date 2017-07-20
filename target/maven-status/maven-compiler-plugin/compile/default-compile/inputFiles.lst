@@ -1,0 +1,7 @@
+/Users/najus/Development/lightning-talks/src/main/java/com/vote/talks/domain/GrantedAuthoritySerializer.java
+/Users/najus/Development/lightning-talks/src/main/java/com/vote/talks/domain/GrantedAuthorityDeserializer.java
+/Users/najus/Development/lightning-talks/src/main/java/com/vote/talks/config/SecurityConfig.java
+/Users/najus/Development/lightning-talks/src/main/java/com/vote/talks/domain/Client.java
+/Users/najus/Development/lightning-talks/src/main/java/com/vote/talks/VoteMain.java
+/Users/najus/Development/lightning-talks/src/main/java/com/vote/talks/controller/ResourceController.java
+/Users/najus/Development/lightning-talks/src/main/java/com/vote/talks/security/MongoDBAuthenticationProvider.java
